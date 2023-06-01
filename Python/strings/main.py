@@ -1,0 +1,10 @@
+frutas = 'Abacate verde'
+print(len(frutas))
+print(frutas[1])
+print(frutas[0:2])
+print(frutas.lower())
+print(frutas.upper())
+print(frutas.strip())
+print(frutas.split(" "))
+print(frutas.find("verde"))
+print(frutas.replace('verde', 'amarelo'))
